@@ -1,8 +1,8 @@
 import "./new.css";
 
 export const metadata = {
-  title: "Your Name | Personal Website",
-  description: "Personal website of Your Name.",
+  title: "Derence Kane Calagsing | Personal Website",
+  description: "Personal website of Derence Kane Calagsing.",
 };
 
 export default function RootLayout({ children }) {
