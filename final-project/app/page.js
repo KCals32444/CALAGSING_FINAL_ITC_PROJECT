@@ -116,6 +116,9 @@ export default function Home() {
             <li>
               LinkedIn: <a href="https://www.linkedin.com/in/derence-calagsing-1b0864451" target="_blank" rel="noreferrer">linkedin.com/in/derence-calagsing-1b0864451</a>
             </li>
+            <li>
+              Facebook: <a href="https://www.facebook.com/kanederence.lovendino" target="_blank" rel="noreferrer">facebook.com/kanederence.lovendino</a>
+            </li>
           </ul>
         </section>
       </main>
