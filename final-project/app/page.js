@@ -77,6 +77,9 @@ export default function Home() {
                 <li>JavaScript</li>
                 <li>Python</li>
                 <li>C#</li>
+                <li>Java</li>
+                <li>HTML</li>
+                <li>CSS</li>
               </ul>
             </article>
 
