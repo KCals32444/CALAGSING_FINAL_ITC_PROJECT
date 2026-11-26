@@ -47,6 +47,7 @@ export default function Home() {
               <h3>Junior High School to Senior High School</h3>
               <p className="meta">Del Pilar Academy · 2022 – 2026</p>
               <p>Studied Junior High School to Senior High School and Graduated.</p>
+              <p>Worked in immersion program in a Science and Technology School.</p>
             </article>
           </div>
         </section>
