@@ -89,6 +89,7 @@ export default function Home() {
               <ul className="tags">
                 <li>React</li>
                 <li>Node.js</li>
+                <li>Next.js</li>
               </ul>
             </article>
 
