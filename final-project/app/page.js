@@ -67,6 +67,22 @@ export default function Home() {
           </ul>
         </section>
 
+        <section id="Achievements">
+          <h2 className="section-title">Achievements</h2>
+          <div className="cards">
+            <article className="card">
+              <h3>Immersion Program</h3>
+              <p className="meta">IIST · 2025</p>
+              <p>Worked in immersion program and earned a certificate of completion.</p>
+            </article>
+            <article className="card">
+              <h3>Graduated from Senior High School</h3>
+              <p className="meta">Del Pilar Academy · 2026</p>
+              <p>Graduated from Senior High School with high honors.</p>
+            </article>
+          </div>
+        </section>
+
         {/* ---------- 4. SKILLS ---------- */}
         <section id="skills">
           <h2 className="section-title">Skills</h2>
